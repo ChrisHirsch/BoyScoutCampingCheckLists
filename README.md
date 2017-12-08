@@ -7,4 +7,4 @@ Please keep these in text format. You can easily convert to PDF for printing/sha
 See the [winter camping](https://github.com/ChrisHirsch/BoyScoutCampingCheckLists/blob/master/winter_camping.txt) file for packing for winter camping
 
 ## General Camping
-See the [general camping[(https://github.com/ChrisHirsch/BoyScoutCampingCheckLists/blob/master/general_camping.txt) for general summer camping
+See the [general camping](https://github.com/ChrisHirsch/BoyScoutCampingCheckLists/blob/master/general_camping.txt) for general summer camping
